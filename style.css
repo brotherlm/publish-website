@@ -1,0 +1,31 @@
+h1{
+    color: brown;
+}
+
+h4{
+background-color: yellow;
+font-size: large;
+}
+
+header{
+background-image: url('../software-developer-6521720_1280.jpg');
+height: 600px;
+}
+
+li{
+    background-color: bisque;
+    padding: 8px;
+    margin: 10px;
+    color: purple;
+    font-size: larger;
+}
+
+img{
+    size: 2px;
+    border: 10px;
+    border-color: blue;
+}
+
+h2{
+    font-size: xx-large;
+}
